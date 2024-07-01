@@ -1,5 +1,5 @@
 ### Hey! I'm Kasper! 👋
 
-- 🔭 I’m currently working on Nobus
+- 🔭 I’m currently working on a FiveM Framework
 - 🌱 I’m currently learning Lua & Js
-- 📫 How to reach me: discord kasperermeg
+- 📫 You can reach me on discord, kasperermeg

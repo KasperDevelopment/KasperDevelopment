@@ -1,16 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kasper
-==============================================================================================================================
+<h1 align="center">Hi 👋, I'm Kasper</h1>
+<h3 align="center">I'm a FiveM Developer passionate about creating custom scripts and improving the roleplay experience.</h3>
 
-FiveM Developer
----------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasperdevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="kasperdevelopment" /> </p>
 
-👋 Hey there! Welcome to my GitHub! I'm a FiveM Developer passionate about creating custom scripts and improving the roleplay experience. I'm currently working on a custom FiveM framework while learning and coding in: 🟡 Lua (because FiveM devs live on it) 🟢 JavaScript (for the extra magic) 🔵 CSS & HTML (to make everything look slick) 🚀 What I'm working on: A custom-built FiveM framework Unique UI designs for immersive RP Optimized server-side & client-side scripts 💡 Tech & Interests: Custom FiveM mechanics & UI Performance optimization Web development Building immersive RP experiences 🔧 Always tweaking, always learning, and always pushing FiveM development forward! 🚀
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasperdevelopment" alt="kasperdevelopment" /></a> </p>
 
-*   🌍  I'm based in Norway
-*   ✉️  You can contact me at [kasper@perkas.no](mailto:kasper@perkas.no)
-*   🚀  I'm currently working on [Nova Roleplay](http://https://discord.gg/6P3Er6jYxM)
-*   🧠  I'm learning Lua and JS<a href="https://www.github.com/KasperDevelopment" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/KasperDevelopment?logo=github&style=for-the-badge&color=a855f7&labelColor=581c87" /></a>### Skills 
+- 🔭 I'm currently working on a custom FiveM framework [Nova Community](https://discord.gg/W58wp8ZNB4)
+
+- 🌱 I’m currently learning: **Lua & JavaScript**
+
+- 👯 I’m looking to collaborate on **🚀 Nova Project – Seeking UI designers, frontend & backend developers to build something unique.**
+
+- 👨‍💻 All of my projects are available at [Nowhere. (For now.)](Nowhere. (For now.))
+
+- 💬 Ask me about **Nothing. (Or maybe something.)**
+
+- 📫 How to reach me **kasper@perkas.no**
+
+- ⚡ Fun fact **Not all stars shine forever, but some leave a lasting mark.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
+<a href="https://discord.gg/https://discord.gg/W58wp8ZNB4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/W58wp8ZNB4" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasperdevelopment&show_icons=true&locale=en&layout=compact" alt="kasperdevelopment" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasperdevelopment&show_icons=true&locale=en" alt="kasperdevelopment" /></p>
